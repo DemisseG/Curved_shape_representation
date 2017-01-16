@@ -9,7 +9,7 @@ and modelling presented in:
 * Demisse, G.G, Aouada,D, Ottersten, B. *Deformation Based Curved Shape
   Representation*. Submitted to TPAMI.<br />
   
-*If you use the software in any way or form cite the papers listed above.*
+**If you use the software in any way or form cite the papers listed above.**
    
 ## Organization
 There are three main folders:
