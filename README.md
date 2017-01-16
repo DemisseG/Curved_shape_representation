@@ -37,7 +37,7 @@ Three commented demo scripts are included with the package.
   * Extract deformation that acts from the left, given two curved shape.
   * Transfer a deformation to a given Curved shape.
   
-## Contributor/s:
+## Author:
 *Girum G. Demisse*, girumdemisse@gmail.com
 
  
