@@ -26,7 +26,7 @@ Curved shapes, extracted from [kimia99](http://vision.lems.brown.edu/content/ava
 ## HOW TO:
 Three commented demo scripts are included with the package.
 * Demo_HOWTO_curve_representation.m - shows how to:
-  * Create a curve object-- build representation of a curve.(I recommand you to start from here.)
+  * Create a curve object-- build representation of a curve.(I recommand you start from here.)
   * Estimate point correspondance, using both unfiorm sampling and optimal sampling, between two Curve objects.
   * Compute geodesic curve and distance between two curved shapes.
   * Plot results.
