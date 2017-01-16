@@ -7,7 +7,7 @@ approach presented in:
 * Demisse, G.G, Aouada,D, Ottersten, B. *Similarity Metric For Curved
   Shapes in Eculidean Space.*, IEEE CVPR 2016.
 * Demisse, G.G, Aouada,D, Ottersten, B. *Deformation Based Curved Shape
-  Representation*. Submitted to TPAMI.<br />
+  Representation*., Submitted to TPAMI.<br />
 
 ## Code of conduct
 There is only one requirment for using the software: 
