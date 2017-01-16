@@ -28,7 +28,7 @@ Three commented demo scripts are included with the package.
 * **Demo_HOWTO_curve_representation.m** (I recommand you start from here)- shows how to:
   * Create a curve object-- build representation of a curve.
   * Estimate point correspondance, using either unfiorm or optimal sampling, between two curved shapes.
-  * Compute geodesic curve and distance between two curved shapes.
+  * Compute geodesic curve and geodesic distance between two curved shapes.
   * Plot results.
 * **Demo_HOWTO_curve_model.m** - shows how to:
   * Compute Karcher mean of a set of curved shape representations.
