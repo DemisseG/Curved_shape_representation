@@ -18,7 +18,7 @@ If you use the software in any way or form you cite the papers the
 ### 3rdparty
 ### DP_opt
 ### Demo scripts
-## Included dataset
+## Example dataset
 Curved shape extracted from kimia99
 ## HOW TO:
  
