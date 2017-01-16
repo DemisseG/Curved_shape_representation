@@ -2,7 +2,7 @@
 This README.md file was generated on 2017/01/16/ by Girum G Demisse.
 
 ## GENERAL INFORMATION 
-The software is the implementation of curved shape representation
+This is a MATLAB implementation of curved shape representation
 and modelling presented in:
 * Demisse, G.G, Aouada,D, Ottersten, B. *Similarity Metric For Curved
   Shapes in Eculidean Space.*, IEEE CVPR 2016.
@@ -12,7 +12,7 @@ and modelling presented in:
 ***If you use the software in any way or form cite the papers listed above.***
    
 ## Organization
-There are three main folders:
+The package is organized in three main folders:
 * Classes  - includes static and value classes.
 * 3rdparty - includes third party codes.
 * DP_opt   - includes dynamic programming based optimizations.
