@@ -8,16 +8,16 @@ and modelling discussed in:
   Shapes in Eculidean Space.*, IEEE CVPR 2016.
 * Demisse, G.G, Aouada,D, Ottersten, B. *Deformation Based Curved Shape
   Representation*. Submitted to TPAMI.
-**author**: Girum G. Demisse, girumdemisse@gmail.com. University of 
+**author: Girum G. Demisse**, girumdemisse@gmail.com. University of 
   Luxembourg.
 ## Code of Conduct
 If you use the software in any way or form you cite the papers the
    
 ## File structure
-### Classes
-### 3rdparty
-### DP_opt
-### Demo scripts
+*### Classes
+*### 3rdparty
+*### DP_opt
+*### Demo scripts
 ## Included dataset
 Curved shape extracted from kimia99
 ## HOW TO:
