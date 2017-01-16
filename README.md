@@ -25,15 +25,15 @@ Curved shapes, extracted from [kimia99](http://vision.lems.brown.edu/content/ava
 
 ## HOW TO:
 Three commented demo scripts are included with the package.
-* Demo_HOWTO_curve_representation.m (I recommand you start from here)- shows how to:
+* **Demo_HOWTO_curve_representation.m** (I recommand you start from here)- shows how to:
   * Create a curve object-- build representation of a curve.
   * Estimate point correspondance, using either unfiorm or optimal sampling, between two curved shapes.
   * Compute geodesic curve and distance between two curved shapes.
   * Plot results.
-* Demo_HOWTO_curve_model.m - shows how to:
+* **Demo_HOWTO_curve_model.m** - shows how to:
   * Compute Karcher mean of a set of curved shape representations.
   * Compute K-clusters from a dataset of curved shape representations.
-* Demo_HOWTO_deformation_transfer.m - shows how to:
+* **Demo_HOWTO_deformation_transfer.m** - shows how to:
   * Extract deformation that acts from the left, given two curved shapes.
   * Transfer a deformation to a given curved shape.
   
