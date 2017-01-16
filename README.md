@@ -16,7 +16,7 @@ There is only one requirment for using the software:
 ## Organization
 The software package is organized in three main folders:
 * Classes  - includes static and value classes.
-* 3rdparty - includes third party codes.
+* 3rdparty - includes codes from a third party.
 * DP_opt   - includes dynamic programming based optimizations.
 
 ## Example dataset
