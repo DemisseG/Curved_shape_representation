@@ -11,7 +11,7 @@ approach presented in:
 
 ## Code of conduct
 There is only one requirment for using the software: 
-***If you use this software (Curved_shape_representation) in any way or form cite the papers listed above.***
+***If you use this software (Curved_shape_representation) or its derivatives in its entirely or partially, cite the papers listed above.***
    
 ## Organization
 The software package is organized in three main folders:
