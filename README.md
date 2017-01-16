@@ -21,7 +21,7 @@ The software package is organized in three main folders:
 
 ## Example dataset
 Curved shapes, extracted from [kimia99](http://vision.lems.brown.edu/content/available-software-and-databases), are included with the software package.
-* Each coloumn of "kimia99.mat" has 11 elements from the same shape category. In total there are 9 shape catagories.
+* Each coloumn of "kimia99.mat" has 11 elements from the same shape category. In total, there are 9 shape catagories.
 
 ## HOW TO:
 Three commented demo scripts are included with the package.
