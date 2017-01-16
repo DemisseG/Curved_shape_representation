@@ -20,7 +20,7 @@ The software package is organized in three main folders:
 * DP_opt   - includes dynamic programming based optimizations.
 
 ## Example dataset
-Curved shapes, extracted from [kimia99](http://vision.lems.brown.edu/content/available-software-and-databases), are included.
+Curved shapes, extracted from [kimia99](http://vision.lems.brown.edu/content/available-software-and-databases), are included with the software package.
 * Each coloumn of "kimia99.mat" has 11 elements from the same category.
 
 ## HOW TO:
