@@ -17,14 +17,17 @@ There are three main folders:
 * DP_opt   - includes dynamic programming based optimizations.
 
 ## Example dataset
-Curved shapes extracted from kimia99
+Curved shapes, extracted from kimia99, are included.
+* Each coloumn of "kimia99.mat" has 11 elements from the same category.
 
 ## HOW TO:
 Three demo scripts are included with the package.
+* Demo_HOWTO_curve_representation.m - 
+* Demo_HOWTO_curve_model.m - 
+* Demo_HOWTO_deformation_transfer.m -
 
 ## Contributor/s:
-*Girum G. Demisse*, girumdemisse@gmail.com. *University of 
- Luxembourg*.
- 
+*Girum G. Demisse*
+
 ## License 
  
