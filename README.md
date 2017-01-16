@@ -1,4 +1,4 @@
-# curved_shapes
+# Curved_shape_representation
 This README.md file was generated on 2017/01/16/ by Girum G Demisse.
 
 ## GENERAL INFORMATION 
