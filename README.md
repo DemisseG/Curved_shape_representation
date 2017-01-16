@@ -11,13 +11,14 @@ and modelling discussed in:
 *If you use the software in any way or form cite the papers listed above.*
    
 ## Organization
-* Classes
-* 3rdparty
-* DP_opt
+There are three main folders:
+* Classes  - includes static and value classes.
+* 3rdparty - includes third party codes.
+* DP_opt   - includes dynamic programming based optimizations.
 ## Example dataset
-Curved shape extracted from kimia99
+Curved shapes extracted from kimia99
 ## HOW TO:
-* Three demo scripts are included in the package.
+Three demo scripts are included with the package.
 ## Contributor/s:
 *Girum G. Demisse*, girumdemisse@gmail.com. *University of 
  Luxembourg*.
