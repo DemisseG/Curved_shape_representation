@@ -15,12 +15,16 @@ There are three main folders:
 * Classes  - includes static and value classes.
 * 3rdparty - includes third party codes.
 * DP_opt   - includes dynamic programming based optimizations.
+
 ## Example dataset
 Curved shapes extracted from kimia99
+
 ## HOW TO:
 Three demo scripts are included with the package.
+
 ## Contributor/s:
 *Girum G. Demisse*, girumdemisse@gmail.com. *University of 
  Luxembourg*.
+ 
 ## License 
  
