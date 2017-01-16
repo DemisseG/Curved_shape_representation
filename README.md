@@ -33,8 +33,9 @@ Three commented demo scripts are included with the package.
 * Demo_HOWTO_deformation_transfer.m - shows how to:
   * Extract deformation that acts from the left, given two curved shape.
   * Transfer a deformation to a given Curved shape.
+  
 ## Contributor/s:
-Currently, there is only one contributor and main contact: *Girum G. Demisse*, girumdemisse@gmail.com
+*Girum G. Demisse*, girumdemisse@gmail.com
 
 ## License 
  
