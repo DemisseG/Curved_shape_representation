@@ -12,13 +12,13 @@ and modelling presented in:
 ***If you use this software (Curved_shape_representation) in any way or form cite the papers listed above.***
    
 ## Organization
-The package is organized in three main folders:
+The software package is organized in three main folders:
 * Classes  - includes static and value classes.
 * 3rdparty - includes third party codes.
 * DP_opt   - includes dynamic programming based optimizations.
 
 ## Example dataset
-Curved shapes, extracted from kimia99, are included.
+Curved shapes, extracted from [kimia99](http://vision.lems.brown.edu/content/available-software-and-databases), are included.
 * Each coloumn of "kimia99.mat" has 11 elements from the same category.
 
 ## HOW TO:
