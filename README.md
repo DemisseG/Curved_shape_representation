@@ -3,7 +3,7 @@ This README.md file was generated on 2017/01/16/ by Girum G Demisse.
 
 ## GENERAL INFORMATION 
 This is a MATLAB implementation of curved shape representation
-and modelling presented in:
+approach presented in:
 * Demisse, G.G, Aouada,D, Ottersten, B. *Similarity Metric For Curved
   Shapes in Eculidean Space.*, IEEE CVPR 2016.
 * Demisse, G.G, Aouada,D, Ottersten, B. *Deformation Based Curved Shape
