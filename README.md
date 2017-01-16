@@ -13,11 +13,11 @@ and modelling discussed in:
 ## Code of Conduct
 If you use the software in any way or form you cite the papers the
    
-## File structure
-*### Classes
-*### 3rdparty
-*### DP_opt
-*### Demo scripts
+## Organization
+### Classes
+### 3rdparty
+### DP_opt
+### Demo scripts
 ## Included dataset
 Curved shape extracted from kimia99
 ## HOW TO:
