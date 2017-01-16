@@ -22,14 +22,15 @@ Curved shapes, extracted from kimia99, are included.
 
 ## HOW TO:
 Three commented demo scripts are included with the package.
-* Demo_HOWTO_curve_representation.m - Shows how to:
-  * Create a curve object
+* Demo_HOWTO_curve_representation.m - shows how to:
+  * Create a curve object (build a representation of a curve).
   * Estimate point correspondance, using both unfiorm sampling and optimal sampling.
   * Compute geodesic curve and distance between two curved shapes.
   * Plot results.
-  
-* Demo_HOWTO_curve_model.m - 
-* Demo_HOWTO_deformation_transfer.m -
+* Demo_HOWTO_curve_model.m - shows how to:
+  * Compute Karcher mean of a set of curved shape representations.
+  * Compute K-clusters from a dataset of curved shape representations.
+* Demo_HOWTO_deformation_transfer.m - shows how to:
 
 ## Contributor/s:
 *Girum G. Demisse*
