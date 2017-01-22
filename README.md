@@ -20,9 +20,9 @@ The software package is organized in three main folders:
 * DP_opt    - includes dynamic programming based optimizations.
 
 ## Example dataset
-Curved shapes, extracted from [kimia99](http://vision.lems.brown.edu/content/available-software-and-databases), are included with the software package.
-* Each coloumn of "kimia99.mat" has 11 elements from the same shape category. In total, there are 9 shape catagories.
-
+Curved shapes, extracted from [Kimia99](http://vision.lems.brown.edu/content/available-software-and-databases) and [MPEG7](http://www.dabi.temple.edu/~shape/MPEG7/dataset.html), are included with the software package.
+* Each coloumn of "KIMIA99.mat" has 11 elements from the same shape category. In total, there are 9 shape catagories.
+* Each coloumn of "MPEG7.mat" has 20 elements from the same shape category. In total, there are 70 shape catagories.
 ## HOW TO:
 Three commented demo scripts are included with the package.
 * **Demo_HOWTO_curve_representation.m** (I recommand you start from here)- shows how to:
