@@ -20,10 +20,10 @@ The software package is organized in three main folders:
 * DP_opt    - includes dynamic programming based optimizations.
 * Dataset   - includes Kimia's dataset for testing.
 
-## Example dataset
+## Example datasets
 Curved shapes, extracted from [Kimia99](http://vision.lems.brown.edu/content/available-software-and-databases) and [MPEG7](http://www.dabi.temple.edu/~shape/MPEG7/dataset.html), are included with the software package.
-* Each column of "KIMIA99.mat" has 11 elements from the same shape category. In total, there are 9 shape catagories(columns).
-* Each column of "KIMIA216.mat" has 12 elements from the same shape category. In total, there are 18 shape catagories(columns).
+* Each column of "KIMIA99.mat" has 11 elements from the same shape category. In total, there are 9 shape catagories (columns).
+* Each column of "KIMIA216.mat" has 12 elements from the same shape category. In total, there are 18 shape catagories (columns).
 
 ## HOW TO:
 Three commented demo scripts are included with the package.
