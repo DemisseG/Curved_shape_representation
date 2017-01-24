@@ -18,7 +18,7 @@ The software package is organized in three main folders:
 * Classes   - includes static and value classes.
 * 3rdparty  - includes codes developed by a third party.
 * DP_opt    - includes dynamic programming based optimizations.
-* Dataset   - includes Kimia's dataset for testing.
+* Dataset   - includes Kimia's datasets for testing.
 
 ## Example datasets
 Curved shapes, extracted from [Kimia99](http://vision.lems.brown.edu/content/available-software-and-databases) and [Kimia216](http://vision.lems.brown.edu/content/available-software-and-databases), are included with the software package.
